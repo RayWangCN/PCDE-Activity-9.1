@@ -1,2 +1,2 @@
-# Repository of activity 9.1 and activity 9.2
+# REpository for assignment 9.1 and 9.2
 MIT individual assignment
